@@ -22,7 +22,7 @@ _sty-rack-oh-sore-us_
 
 _When: 74-66 million years ago (late Cretaceous. A lot of ceratopsians lived at that time.)_
 
-Styracosaurus had one horn and a big frill. Styracosaurus had big, sharp spikes on the frill. It was about the same size as a human. That's in for styracosaurus.
+Styracosaurus had one horn and a big frill. Styracosaurus had big, sharp spikes on the frill. It was about the same size as a human. That's it for styracosaurus.
 
 ### Protoceratops
 
@@ -30,7 +30,7 @@ _pro-toe-serra-tops_
 
 _When: 74-66 million years ago (late Cretaceous)_
 
-Protoceratops was the smallest ceratopsian ever discovered. Protoceratops had one tiny horn and a small frill. That's in for protoceratops.
+Protoceratops was the smallest ceratopsian ever discovered. Protoceratops had one tiny horn and a small frill. That's it for protoceratops.
 
 That's not all the ceratopsians, but I think we can move on.
 
@@ -44,7 +44,7 @@ Most of them have sharp thumb spikes.
 
 _ig-gwah-no-don_
 
-_When: 135-125 million years ago (eary Cretaceous)_
+_When: 135-125 million years ago (early Cretaceous)_
 
 It had a very big thumb spike that was probably used for defense. It was four-legged and it was a lot bigger than a human!! It could stand on two legs and four legs. That's it for iguanodon.
 
@@ -136,7 +136,7 @@ _When: 189-176 million years ago (early Jurassic)_
 
 _Length: 59 ft (18 m)_
 
-It has the longest legs of any sauropod. It's the only one that has a short tail. It has teeth that are all in a row, like all combined together into one grinder. It's neck is like a chain: long and sturdy. That's it for this dinosaur.
+It has the longest legs of any sauropod. It's the only one that has a short tail. It has teeth that are all in a row, like all combined together into one grinder. Its neck is like a chain: long and sturdy. That's it for this dinosaur.
 
 ### Camarasaurus
 
@@ -206,7 +206,7 @@ _When: 155-145 million years ago (late Jurassic)_
 
 _Length: 92 ft (28 m)_
 
-They lived in herds. They had spikes down their neck to their tail. They probably lived in rain forests.
+They lived in herds. They had spikes down their neck to their tail. They probably lived in rainforests.
 
 Up next, these are the titanosaurs.
 ### Nemegtosaurus
@@ -239,9 +239,9 @@ Answer: Yes! It used them for defense.
 
 ### Question 2: Is it true that styracosaurus had one long spike on its nose?
 
-Answer: Yes! It used it like tricerotops: to charge and it also used it for defense.
+Answer: Yes! It used it like triceratops: to charge and it also used it for defense.
 
-### Question 3: Is it true that tricerotops lived in the Jurassic period?
+### Question 3: Is it true that triceratops lived in the Jurassic period?
 
 Answer: No! It lived in late Cretaceous.
 
@@ -291,7 +291,7 @@ A floss-iraptor.
 
 ----
 
-Why are sauropods such good story tellers?
+Why are sauropods such good storytellers?
 
 Because they have long tails.
 
@@ -309,7 +309,7 @@ Because the chickens hadn’t evolved yet.
 
 ### Question 8: Why isn't pterodactyl a real thing?
 
-Because its beak was from a pterodactylus, its wings were from a quetzalcoatlus, and its body a tail were from a ramphorinkus. A paleontologist found all these bones in the same place and thought they belonged together, but they did NOT.
+Because its beak was from a pterodactylus, its wings were from a quetzalcoatlus, and its body a tail were from a rhamphorhynchus. A paleontologist found all these bones in the same place and thought they belonged together, but they did NOT.
 
 ### Question 9: Why don't you have any pterosaurs on this page?
 
