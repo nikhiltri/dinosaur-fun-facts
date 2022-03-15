@@ -82,7 +82,7 @@ It also had a large crest to make sound but it was in a different shape. Probabl
 
 ## Ankylosaurs
 
-<img alt="This is an ankylosaurs fighting a T. Rex" align="right" width="50%" src="pictures/ankylosaurs.jpeg">
+<img alt="This is an ankylosaurs fighting a T. Rex" align="right" width="50%" src="pictures/ankylosaurs.jpg">
 
 They are the armored ones.
 
