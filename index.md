@@ -1,4 +1,4 @@
-# Dinosaur Fun Facts
+# Plant-eating Dinosaur Fun Facts
 
 > This website is gonna tell you about a bunch of different dinosaur facts.
 
