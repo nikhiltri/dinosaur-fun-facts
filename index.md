@@ -4,6 +4,8 @@
 
 ## Ceratopsians
 
+<img alt="This is a picture of a bunch of different ceratopsians" align="right" width="50%" src="pictures/ceratopsians.png">
+
 They are the horned dinosaus.
 
 ### Triceratops
@@ -38,6 +40,8 @@ That's not all the ceratopsians, but I think we can move on.
 
 ## Iguanodontians
 
+<img alt="This is a picture of three iguanodontians" align="right" width="50%" src="pictures/iguanodontians.png">
+
 Most of them have sharp thumb spikes.
 
 ### Iguanodon
@@ -52,6 +56,8 @@ a lot bigger than a human!! It could stand on two legs and four legs. That's it 
 I don't know that much about any other iguanodontians.
 
 ## Hadrosaurs
+
+<img alt="These are two hadrosaurs" align="right" width="50%" src="pictures/hadrosaurs.jpeg">
 
 Most of them had crests.
 
