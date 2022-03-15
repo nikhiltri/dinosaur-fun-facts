@@ -4,7 +4,7 @@
 
 ## Ceratopsians
 
-They are the horned dinosaus.</p>
+They are the horned dinosaus.
 
 ### Triceratops
 
