@@ -116,3 +116,137 @@ all over it except on its belly. Its legs were like elephant legs! It's a very c
 dinosaur.
 
 That's it for the category.
+
+## Sauropods and Titanosaurs
+
+They are the huge, long-necked ones. And the four-footed ones.
+
+### Brachiosaurus
+
+_brackee-oh-sore-us_
+
+_When: 150-145 million years ago (ooooh, late Jurassic!)_
+
+_Length: 75 ft (23 m)_
+
+Brachiosaurus is distinctive with a large crest from its eye to where its mouth starts.
+Like the others, it has a long neck, but it's the only one that's neck is slanted and
+then straight up.
+
+### Barapasaurus
+
+_buh-rah-pah-sore-us_
+
+_When: 189-176 million years ago (early Jurassic)_
+
+_Length: 59 ft (18 m)_
+
+It has the longest legs of any sauropod. It's the only one that has a short tail.
+It has teeth that are all in a row, like all combined together into one grinder.
+It's neck is like a chain: long and sturdy. That's it for this dinosaur.
+
+### Camarasaurus
+
+_kam-a-ra-sore-us_
+
+_When: 150-140 million years ago (late Jurassic)_
+
+_Length: 59 ft (18 m)_
+
+Why it's named Camarasaurus is because it has a head shaped like a camera!
+Its number one weapon is that it lives in groups. It has teeth combined like
+a grinder, too. It's kind of fast for its size.
+
+### Mamenchisaurus
+
+_ma-men-chee-sore-us_
+
+_When: 155-145 million years ago (middle-late Jurassic)_
+
+_Length: 85 ft (26m)_
+
+It had a neck longer than its whole body. It was way taller than Brachiosaurus!
+It had long, thin, roundish legs. If you saw it, it would be hard to make out its
+head because its head was the same size as its neck! That's it for this dinosaur.
+
+### Vulcanodon
+
+_vul-kan-o-don_
+
+_When: Early Jurassic_
+
+_Length: 23 ft (7 m)_
+
+It was one of the smallest sauropods. It was also one of the shortest sauropods.
+You would think it had short and thin legs, but it actually had wide and kind of
+long legs.
+
+### Isanosaurus
+
+_ee-sahn-oh-sore-us_
+
+_When: 216-199 million years ago (late Triassic, our first Triassic dinosaur!)_
+
+_Length: 40 ft (12 m)_
+
+It was even shorter than vulcanodon. I would compare it to a rhino. They lived in groups.
+And their first defense method was groups, just like the camarasaurus. These dinosaurs
+had teeth more apart from each other than a human's teeth! They had small eyes.
+And that's why they lived in groups.
+
+### Diplodocus
+
+_dip-lod-oh-kus_ or _di-plod-uh-kus_
+
+_When: 150-145 million years ago (late Jurassic)_
+
+_Length: 86 ft (26 m)_
+
+It's the same size as memenchosaurus and it used its tail like a whip to fight danger!
+What makes it so big was that its tail was as long as camarasaurus!
+
+### Amargasaurus
+
+_ah-mar-gah-sore-us_
+
+_When: 130 million years ago (early Cretaceous)_
+
+_Length: 36 ft (11 m)_
+
+It had a giant sail running from the tip of its neck down to its tail. But now scientists think
+it was one sail divided into two sails. It might have walked in shallow water to get away
+from predators. It had a long tail.
+
+### Barosaurus
+
+_bah-roe-sore-us_
+
+_When: 155-145 million years ago (late Jurassic)_
+
+_Length: 92 ft (28 m)_
+
+They lived in herds. They had spikes down their neck to their tail. They probably lived in
+rain forests.
+
+Up next, these are the titanosaurs.
+### Nemegtosaurus
+
+_nem-egg-toe-sore-us_
+
+_When: 86-66 million years ago (late Cretaceous)_
+
+_Length: 50 ft (15 m)_
+
+It had teeth together combined into one grinder, too. It had a very long neck. Its head could
+eat a branch.
+
+### Argentinosaurus
+
+_are-gen-teen-oh-sore-us_
+
+_When: 112-95 million years ago (late Cretaceous)_
+
+_Length: 100 ft (30 m)_
+
+It's a titanosaur. It had teeth that could eat a branch, too. It's giant. Its head was the
+same size as its neck, too.
