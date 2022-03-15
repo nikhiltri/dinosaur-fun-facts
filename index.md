@@ -89,6 +89,8 @@ Probably the same size as parasaurolophus. It walked on four legs.
 
 ## Ankylosaurs
 
+<img alt="This is an ankylosaurs fighting a T. Rex" align="right" width="50%" src="pictures/ankylosaurs.jpeg">
+
 They are the armored ones.
 
 ### Ankylosaurus
@@ -124,6 +126,8 @@ dinosaur.
 That's it for the category.
 
 ## Sauropods and Titanosaurs
+
+<img alt="This is a picture of some iguanodontians around some sauropods" align="right" width="50%" src="pictures/sauropods.png">
 
 They are the huge, long-necked ones. And the four-footed ones.
 
