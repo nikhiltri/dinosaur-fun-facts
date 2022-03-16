@@ -2,6 +2,13 @@
 
 > This website is gonna tell you about a bunch of different dinosaur facts.
 
+* [Ceratopsians](#ceratopsians)
+* [Iguanodontians](#iguanodontians)
+* [Hadrosaurs](#hadrosaurs)
+* [Ankylosaurs](#ankylosaurs)
+* [Sauropods and Titanosaurs](#sauropods-and-titanosaurs)
+* [Questions and answers](#questions-and-answers)
+
 ## Ceratopsians
 
 <img alt="This is a picture of a bunch of different ceratopsians" align="right" width="50%" src="pictures/ceratopsians.png">
