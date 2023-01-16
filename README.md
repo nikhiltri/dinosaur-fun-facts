@@ -1,4 +1,4 @@
-# Plant-eating Dinosaur Fun Facts
+# Dinosaur Fun Facts
 
 In the spring of 2022, my six year old kiddo asked me:
 
