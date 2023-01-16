@@ -47,3 +47,11 @@ It battles the giganotosaurus.
 _thare-oh-zin-oh-sore-us_
 
 In the movie it scares Claire, it also is part of the giganotosaurus battle. And it wins!
+
+## Iguanodon
+
+<img alt="An iguanodon almost full-body, but most of the back legs cut off and you can't see the tail and it's in a field and it's the iguanodon from Dominion" align="right" width="50%" src="pictures/iguanodon.jpg" />
+
+_ih_gwah_no_don_
+
+Iguanodon is a large plant-eater. It usually lives in herds, but I don't know if that's in the movie. It has a beak and it's in the hadrosaur family.
