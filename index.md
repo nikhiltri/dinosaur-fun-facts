@@ -4,3 +4,4 @@
 
 * [Plant-eating dinos](plant-eating-dinos)
 * [Jurassic World Dominion dinos](jurassic-world-dominion-dinos)
+* [Questions, Answers and Jokes](questions-answers-and-jokes)
